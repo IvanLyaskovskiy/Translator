@@ -1,0 +1,4 @@
+beben=пити
+trabajar=працювати
+ser=бути
+comer=їсти
